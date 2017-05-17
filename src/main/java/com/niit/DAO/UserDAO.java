@@ -6,5 +6,6 @@ import com.niit.model.User;
 
 public interface UserDAO {
 
+	
 	List<User> getAll();
 }
